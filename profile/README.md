@@ -1,20 +1,20 @@
-# Netro Creative
+# Netro Systems
 
-Welcome to the Netro Creative repository! We are a small startup based in Rajshahi, specializing in software development and UI/UX design. This README file will guide you through our organization, services, and how to contribute to our projects effectively.
+Welcome to the Netro Systems repository! We are a small startup based in Rajshahi, specializing in software development and UI/UX design. This README file will guide you through our organization, services, and how to contribute to our projects effectively.
 
 ## Table of Contents
 
-- [About Netro Creative](#about-netro-creative)
+- [About Netro Systems](#about-netro-systems)
 - [Services](#services)
 - [Contact](#contact)
 
-## About Netro Creative
+## About Netro Systems
 
-Netro Creative is a dynamic and innovative organization dedicated to providing top-notch software development and UI/UX design services. We strive to create exceptional digital experiences that help businesses thrive in the digital world. Our team consists of talented professionals who are passionate about delivering high-quality solutions tailored to our clients' specific needs.
+Netro Systems is a dynamic and innovative organization dedicated to providing top-notch software development and UI/UX design services. We strive to create exceptional digital experiences that help businesses thrive in the digital world. Our team consists of talented professionals who are passionate about delivering high-quality solutions tailored to our clients' specific needs.
 
 ## Services
 
-At Netro Creative, we offer the following services:
+At Netro Systems, we offer the following services:
 
 - **Software Development:** We develop custom software solutions using the latest technologies and industry best practices. Our expertise includes web development, mobile app development, and desktop application development.
 
@@ -24,5 +24,5 @@ At Netro Creative, we offer the following services:
 
 If you have any questions, feedback, or need further assistance, feel free to reach out to us:
 
-- Website: [https://www.netrocreative.com](https://www.netrocreative.com)
-- Email: support@netrocreative.com
+- Website: [https://www.netrosystems.com](https://www.netrosystems.com)
+- Email: support@netrosystems.com
